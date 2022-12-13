@@ -1,0 +1,8 @@
+.lead__overlay-container{
+display: grid;
+grid-template-columns: 37px 1fr 1fr 1fr 23px ;
+grid-template-rows: repeat(12, 1fr);
+max-width: 984px;
+max-height: 615px;
+background-image: url('../../../images/lead__image.jpg');
+}

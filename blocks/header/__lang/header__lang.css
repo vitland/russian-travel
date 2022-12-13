@@ -1,0 +1,7 @@
+.header__lang{
+display: flex;
+min-width: 78px;
+min-height: 30px;
+justify-content: space-between;
+align-items: flex-end;
+}

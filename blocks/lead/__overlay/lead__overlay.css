@@ -1,0 +1,6 @@
+.lead__overlay{
+  width: 100%;
+  grid-column: 2/ span 2 ;
+  grid-row: 3/7;
+  z-index: 2;
+}

@@ -7,7 +7,15 @@
 }
 
 @font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("./inter/semibold/Inter-SemiBold.woff") format("woff");
+}
+
+@font-face {
   font-family: "Inter";
   font-weight: 900;
-  src: url('./inter/bold/Inter-Black.woff') format("woff");
+  src: url('./inter/black/Inter-Black.woff') format("woff");
 }

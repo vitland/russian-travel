@@ -1,8 +1,8 @@
 .main {
   font-family: 'Inter', sans-serif;
-  max-width: 1920px;
+  max-width: 100vw;
   min-width: 320px;
-  background: #2A2C2F;
+  background: #2a2c2f;
   color: #fff;
   display: flex;
   flex-direction: column;

@@ -2,5 +2,27 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  min-width: 984px;
+  max-width: 984px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+
+  .intro {
+    padding: 0 48px;
+  }
+}
+@media screen and (max-width: 768px) {
+
+  .intro {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .intro {
+    padding: 0 16px;
+  }
 }

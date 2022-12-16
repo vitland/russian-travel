@@ -1,5 +1,10 @@
-.cover{
-  max-width: 1184px
-  ;
-  position: relative;
+.cover {
+  width: 94%;
+  height: 740px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../../images/cover__background.jpg');
+  background-size: cover;
 }
+

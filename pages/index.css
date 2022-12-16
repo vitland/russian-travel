@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/main/main.css);
+@import url(../blocks/opacity/opacity.css);
 
 /* block margins */
 @import url(../blocks/main/__header/main__header.css);

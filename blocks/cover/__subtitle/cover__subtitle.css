@@ -1,10 +1,6 @@
 .cover__subtitle{
+  margin: 26px 0 0;
   max-width: 360px;
-  position: absolute;
-  top: 62%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  margin: 0;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.2;

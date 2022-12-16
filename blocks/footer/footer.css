@@ -1,5 +1,6 @@
 .footer {
   width: 94%;
+  max-width: 1184px;
   display: flex;
   justify-content: space-between;
 }

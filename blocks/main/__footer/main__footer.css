@@ -1,23 +1,23 @@
-.main__footer{
-  padding: 0 48px;
+.main__footer {
   margin: 92px 0 24px;
 }
 
-@media screen and (max-width: 1024px){
-  .main__footer{
+@media screen and (max-width: 1024px) {
+  .main__footer {
     margin: 88px 0 24px;
-    
   }
 }
-@media screen and (max-width: 768px){
-  .main__footer{
+
+@media screen and (max-width: 768px) {
+  .main__footer {
     margin: 88px 0 24px;
-    padding: 0 24px
+    padding: 0 24px;
   }
 }
-@media screen and (max-width: 700px){
-  .main__footer{
+
+@media screen and (max-width: 700px) {
+  .main__footer {
     margin: 64px 0 24px;
-    padding: 0 16px
+    padding: 0 16px;
   }
 }

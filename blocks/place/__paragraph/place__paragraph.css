@@ -11,20 +11,28 @@
   margin: 42px 0 26px;
 }
 
+.place__paragraph:only-child {
+  margin: 42px 0 0;
+}
+
 @media screen and (max-width: 768px) {
   .place__paragraph {
     font-size: 16px;
-  line-height: 1.64;
+    line-height: 1.65;
   }
 }
 
 @media screen and (max-width: 700px) {
-  .place__paragraph:first-of-type {
-    margin: 30px 16px 25px;
+  .place__paragraph {
+    margin: 0 16px 0;
     line-height: 1.63;
   }
 
-  .place__paragraph:not(:nth-of-type(1)) {
-    margin: 0 16px 0;
+  .place__paragraph:first-of-type {
+    margin: 30px 16px 25px;
+  }
+
+  .place__paragrapha:only-child {
+    margin: 30px 16px 0;
   }
 }

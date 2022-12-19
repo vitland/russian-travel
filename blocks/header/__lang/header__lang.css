@@ -1,17 +1,6 @@
 .header__lang{
 display: flex;
-min-width: 78px;
-min-height: 30px;
 justify-content: space-between;
 align-items: flex-end;
-}
-
-@media screen and (max-width: 320px) {
-  .header__lang{
-    display: flex;
-    min-width: 62px;
-    min-height: 20px;
-    justify-content: space-between;
-    align-items: flex-end;
-    }
+gap: 18px;
 }

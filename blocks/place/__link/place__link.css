@@ -6,9 +6,3 @@
   text-decoration: underline;
   color: #fff;
 }
-
-@media screen and (max-width:320px) {
-  .place__link {
-    margin: 0 0 32px;
-  }
-}

@@ -2,7 +2,7 @@
   width: 100%;
   max-width: 460px;
   max-height: 460px;
-  margin: 42px 0 0;
+  margin: 44px 0 0;
   grid-column: 1;
   grid-row: 2;
   box-sizing: border-box;
@@ -26,14 +26,11 @@
   .place__image {
     margin: 0;
     padding: 0 16px;
-    max-width: 340px;
-    max-height: 340px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place__image {
-    margin: 0;
     padding: 0;
     max-width: 320px;
     max-height: 320px;

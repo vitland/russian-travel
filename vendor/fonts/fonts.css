@@ -7,9 +7,9 @@
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
-  font-weight: 600;
+  font-weight: 700;
   font-display: swap;
-  src: url("./inter/semibold/Inter-SemiBold.woff") format("woff");
+  src: url("./inter/bold/Inter-Bold.woff") format("woff");
 }
 
 @font-face {

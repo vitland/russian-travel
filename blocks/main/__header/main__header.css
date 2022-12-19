@@ -1,12 +1,8 @@
 .main__header {
   margin: 28px 0 0;
+  padding: 0 48px;
 }
 
-@media screen and (max-width: 1024px) {
-  .main__header {
-    padding: 0 48px;
-  }
-}
 @media screen and (max-width: 768px) {
   .main__header {
     padding: 0 24px;
